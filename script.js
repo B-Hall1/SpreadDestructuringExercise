@@ -20,7 +20,7 @@ const streamingMovies = {
 
 console.log(streamingMovies);
 
-const disneyJunior = ['Mickey Mouse Clubhouse', Spidey and His Amazing Friends];
+const disneyJunior = ['Mickey Mouse Clubhouse', 'Spidey and His Amazing Friends'];
 const [mickey, spidey] = disneyJunior;
 console.log(disneyJunior);
 console.log(mickey, spidey);
